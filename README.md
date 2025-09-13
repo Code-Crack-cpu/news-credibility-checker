@@ -10,7 +10,7 @@
 - 🎓 Student & Tech Explorer  
 - 🌱 Currently learning **AI tools & JavaScript**  
 - 💬 Ask me about **No-Code, GitHub, and AI tools**  
-- 📫 Reach me at: **yourmail@gmail.com**  
+- 📫 Reach me at: **frrrforza@gmail.com**  
 
 ---
 
@@ -23,7 +23,7 @@ Just getting started with GitHub 🚀
 
  🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📧 Email: **yourmail@gmail.com**  
+- 📧 Email: **frrrforza@gmail.com**  
 
 ---
 
