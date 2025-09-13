@@ -1,28 +1,15 @@
- Hi 👋, I'm Shaikh Mohammed Sohail  
+# Fake News Detector 
 
-👨‍💻 Tech Explorer | Python, C & R Programmer  
-🌱 Lifelong Learner | 🚀 Future Innovator  
+A simple Python project to detect fake news using Natural Language Processing (NLP) and Machine Learning.  
+This project classifies news articles as **Real** or **Fake** based on the text provided.
 
----
+## Features
+- Preprocesses text data (removes stopwords, punctuation, etc.)
+- Uses TF-IDF vectorization
+- Trains a Logistic Regression model for classification
+- Predicts whether input news is Real or Fake
 
-🧑‍💻 About Me
-- 🎓 Passionate about programming and problem solving  
-- 🌱 Currently improving skills in **Python, C, and R**  
-- 💬 Ask me about **coding, data analysis, and logic building**  
-- 📫 Reach me at: **frrrforza@gmail.com**  
-
----
-
-🚀 Skills
-- **Languages:** Python, C, R  
-- **Areas of Interest:** Data Analysis, Programming, Problem Solving  
-
----
-
-🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sohail-shaikh-818658356)  
-- 📧 Email: **frrrforza@gmail.com**  
-
----
-
-⭐️ From [Shaikh Mohammed Sohail](https://github.com/Code-Crack-cpu)
+## Installation
+Clone this repo:
+```bash
+git clone https://github.com/Code-Crack-Cpu/fake-news-detector.git
